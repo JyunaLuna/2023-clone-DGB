@@ -13,6 +13,10 @@ a {
 ul {
   display: flex;
 }
+h6{
+  font-size: 0;
+  text-indent: -999;
+}
 
 .wrap1170 {
   width: 60.95vw;
